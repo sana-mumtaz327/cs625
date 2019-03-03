@@ -1,4 +1,4 @@
-public class WaterSongFixed {
+public class WaterSong {
 public static void main(String[] arg) {
 int waterNum =9;
 String word ="bottles";
